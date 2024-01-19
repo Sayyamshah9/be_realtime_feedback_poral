@@ -11,9 +11,10 @@
 ### Set up .env
 
 - Create .env file and put on below Variables in it
-  `PORT=3001
-DB_NAME=dbFeedbackData
-DB_URL=mongodb+srv://amuser:amuser01@cluster0.mprgkwf.mongodb.net/dbFeedbackData`
+
+* `PORT=3001`
+* `DB_NAME=dbFeedbackData`
+* `DB_URL=<you will find url in constants.js file copy paste it here>`
 
 ### Run project
 

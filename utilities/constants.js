@@ -12,4 +12,6 @@ CONSTANTS.DB_CONFIG = {
   COLLECTION_NAME: "FeedbackCollection",
 };
 
+// MongoDb URL - mongodb+srv://amuser:amuser01@cluster0.mprgkwf.mongodb.net/dbFeedbackData
+
 module.exports = CONSTANTS;
