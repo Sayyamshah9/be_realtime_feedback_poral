@@ -6,7 +6,7 @@
 
 ### Set up a project
 
-- Clone this repository: `git clone `
+- Clone this repository: `git clone https://github.com/Sayyamshah9/be_realtime_feedback_poral.git`
 
 ### Set up .env
 
