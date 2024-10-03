@@ -14,7 +14,7 @@
 
 * `PORT=3001`
 * `DB_NAME=dbFeedbackData`
-* `DB_URL=<you will find url in constants.js file copy paste it here>`
+<!-- * `DB_URL=<you will find url in constants.js file copy paste it here>` -->
 
 ### Run project
 
